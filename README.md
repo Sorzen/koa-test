@@ -1,3 +1,6 @@
+# 目录结构
+
+```
 ├── app                              // 主目录文件
 │   ├── controllers              // 控制层文件
 │   ├── error                       // 错误处理 
@@ -10,7 +13,11 @@
 ├── app.js                        // 主文件（入口文件）
 ├── index.html                 // html模板
 └── package.json            // package.json
+```
 
- - quick start
-==npm install              **安装依赖包**==
-==npm start                 **进行项目启动**==
+```
+# quick start
+> npm install              安装依赖包
+
+> npm start                进行项目启动
+```
